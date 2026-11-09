@@ -22,4 +22,3 @@ I currently develop the diagnostic software for metro systems (C++ back-end, Jav
 
 - LinkedIn: [linkedin.com/in/william-grimaldi](https://linkedin.com/in/william-grimaldi)
 - Personal GitHub account: [@Buon-Omba](https://github.com/Buon-Omba)
-- Email: w.grimaldi@proton.me
